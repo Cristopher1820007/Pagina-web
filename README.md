@@ -171,11 +171,8 @@
                             <a href="https://www.facebook.com/share/14dKGgcFMSz/" target="_blank" class="btn btn-outline-info">Facebook</a>
                             <a href="https://www.instagram.com/cristopher_xrv18?igsh=MTBlMWRhaDFuM2doNg==" target="_blank" class="btn btn-outline-danger">Instagram</a>
                         </div>
-                </aside>
             </div>
         </section>
-    </main>
-
     <!-- base.html: Pie de página global del sitio -->
     <footer>
         <p><strong>Nombre:</strong> Cristopher Jair Robalino Montes</p>
